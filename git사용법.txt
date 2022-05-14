@@ -1,0 +1,15 @@
+git init 한 폴더에서
+git bash 열고
+
+git status 입력해서 상태 한 번 확인해주고(필수 아님)
+
+git add .
+or
+git add ~~~.c
+
+git commit -m "하고싶은말"
+
+git push origin main
+
+
+하면됨.
